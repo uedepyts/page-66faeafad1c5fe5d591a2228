@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ff3c414ddfb57903969bd777",
+  "owner": "uedepyts",
+  "repo": "page-66faeafad1c5fe5d591a2228",
+  "title": "一云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "66faeafad1c5fe5d591a2228",
+      "a": "一云梯",
+      "b": "机场官网线路发布页",
+      "entity": "一云梯",
+      "brand": "一云梯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6a9f1ab26f4e86c372318bcb25f13fb62147d33fbccf9be3f90ad3017214f1c8",
+      "content": {
+        "primary_entity": "一云梯",
+        "keyword1": "一云梯",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "找到合适套餐后，按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻配置",
+          "AI_DESCRIPTION": "，一云梯面向跨境访问和流媒体场景提供多档套餐。基础版每月 100GB 流量、支持 3 台设备，适合轻度使用；旗舰版每月 300GB、支持 5 台设备，并针对游戏场景优化 IPLC 专线；团队版每月 1000GB、支持 20 台设备，适合多人协作。选择时按设备数量和流量需求匹配套餐，再对照客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。设备数量按同时在线计算，家人或团队共用建议选择更高档位。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量按月重置，日常浏览、视频和游戏按实际使用量估算即可。",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体；旗舰版全节点原生流媒体解锁，并针对游戏做了 IPLC 专线优化；团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "按自己的设备系统选择客户端，导入订阅后自动获取节点。同一账号在套餐限定的设备数内可多端登录，超出数量需升级。",
+          "AI_FAQ_ANSWER_5": "可以。年付方案比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用建议直接选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "不同套餐的节点有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何选择适合自己的客户端？",
+          "AI_FAQ_QUESTION_5": "可以按年付费吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "套餐按流量、设备数和线路质量分层，按需选择即可。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人轻量使用，每月 100GB、3 台设备，日常浏览足够。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线，适合游戏和流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持定制路由，适合多人共享。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TITLE_2": "按设备选",
+          "AI_FEATURE_TITLE_3": "按场景选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "一云梯提供多档跨境加速套餐，覆盖个人到团队使用。基础版、旗舰版和团队版分别对应不同流量与设备数量，按实际需求挑选即可。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认使用设备数量与每月流量需求，在基础版、旗舰版、团队版中选择匹配档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型和同时在线数量，确认与手头设备一致。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成节点加载后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "一云梯套餐选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jncydx.com",
+    "host": "jncydx.com"
+  },
+  "file_hashes": {
+    "index.html": "1fd5f4048956a4dc742ae9dd7f641699e19639a5a1e30742c1baa71a5864c016",
+    "sitemap.xml": "069406511b33fc5197c9eb7654b7bf64c2ce941e73e0a379befac77edd743a90",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "19f32489f7fe66aea94adbd44c049a66a41afcda928eb224c3d0aad225551a22",
+    "robots.txt": "20fe9cc8ff6b35de6fb978d6e815f991f3564210137255872cf7d6a3cc10a3a2",
+    "acaf21ec4edb6587288002959022352e.txt": "d1de80fab8dd829b5d340087499303ad67ff78e87f8fca3c2e955afb92fdb836"
+  },
+  "revision": "0c122de1e7baf37512da4a981527f30f4547d89037a7387acc0aa605cbdecbec"
+}
